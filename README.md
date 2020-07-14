@@ -19,7 +19,7 @@ Read 10    |[link 10](https://yazan-alshekha.github.io/reading-notes-301/read10)
 Read 11    |[link 11](https://yazan-alshekha.github.io/reading-notes-301/read11)
 Read 12    |[link 12]()
 Read 13    |[link 13]()
-Read 14    |[link 14]()
+Read 14    |[link 14](https://yazan-alshekha.github.io/reading-notes-301/read14)
 Read 15    |[link 15]()
 
 
